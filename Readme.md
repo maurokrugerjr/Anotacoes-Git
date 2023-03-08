@@ -1,4 +1,4 @@
-#Esse documento contem anotações para os comandos do Git. 
+# Esse documento contem anotações para os comandos do Git. 
 
 __Comandos :__
 
